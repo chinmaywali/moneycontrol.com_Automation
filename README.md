@@ -1,7 +1,7 @@
 # moneycontrol.com - Automation
 -------
 
-This project is based on Python-Selenium to automate live website (moneycontrol.com/fixed-deposit-calculator). In this project , the website is automated using selenium webdriver and testcases are executed and based on the reult(pass or fail) the excel is updated automatically.
+This project is based on Python-Selenium to automate live website (moneycontrol.com/fixed-deposit-calculator). In this project , the website is automated using selenium webdriver and testcases are executed and based on the result(pass or fail) the excel is updated automatically.
 
 **This is built with keeping in mind that a tester needs put 20% of effort to get the 80% of output by automating the complete testing process**
 
