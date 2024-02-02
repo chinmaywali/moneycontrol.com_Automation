@@ -11,6 +11,11 @@ This project is based on Python-Selenium to automate live website (moneycontrol.
 
 -------------
 
+## Demo:
+https://github.com/chinmaywali/moneycontrol.com_Automation/assets/123446377/14f232ee-835d-4c61-9f88-be6612df0865
+
+----------
+
 ## Functionalities Implemented:
 - Developed Python scripts (main.py and fixeddepo.py) to automate the testing process.
 - Utilized Selenium WebDriver to interact with the fixed deposit calculator web application.
@@ -18,10 +23,6 @@ This project is based on Python-Selenium to automate live website (moneycontrol.
 - Implemented functions to handle Excel file operations, such as getting row and column counts, reading data, writing data, and applying cell formatting.
 - Created test scenarios to validate the accuracy of the fixed deposit calculator by comparing expected maturity values with actual values obtained from the web application.
 
-----------
-
-## Demo:
-https://github.com/chinmaywali/moneycontrol.com_Automation/assets/123446377/14f232ee-835d-4c61-9f88-be6612df0865
 
 -----
 ## Report Screenshots:
