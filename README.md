@@ -10,7 +10,7 @@ This project is based on Python-Selenium to automate live website (moneycontrol.
 - **OpenPyXL**: Used it to read from excel file and write into Excel files to manage test data and results.
 
 -------------
-
+ 
 ## Demo:
 https://github.com/chinmaywali/moneycontrol.com_Automation/assets/123446377/14f232ee-835d-4c61-9f88-be6612df0865
 
